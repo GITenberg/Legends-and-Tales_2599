@@ -1,0 +1,30 @@
+_repo: Legends-and-Tales_2599
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Harte, Bret
+    alias: Harte, Francis Bret
+    birthdate: 1836
+    deathdate: 1902
+    gutenberg_agent_id: '593'
+    url: http://www.gutenberg.org/2009/agents/593
+    wikipedia: http://en.wikipedia.org/wiki/Bret_Harte
+description: ''
+gutenberg_issued: '2006-05-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2599'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcc 'PS'
+- !lcsh 'American fiction -- 19th century'
+- GITenberg
+tableOfContents: The legend of Monte del Diablo -- The adventure of Padre Vincentio
+  -- The legend of Devil's Point -- The Devil and the broker -- The ogress of Silver
+  Land -- The ruins of San Francisco -- A night at Wingdam.
+title: Legends and Tales
+url: http://www.gutenberg.org/ebooks/2599
